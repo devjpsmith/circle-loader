@@ -31,7 +31,7 @@ body {
     border-radius: 50%;
     border-top-color: var(--loader-color);
     padding: 2px;
-    animation: rotator 2s infinite cubic-bezier(0.645, 0.045, 0.355, 1);
+    animation: rotator 2s infinite cubic-bezier(.89,.38,.49,.95);
 }
 
 .level-one {
